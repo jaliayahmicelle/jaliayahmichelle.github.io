@@ -189,7 +189,7 @@ There are two ways to open your project with **Live Server**:
    <!DOCTYPE html>
    <html>
      <head>
-       <title>CHANGE ME</title>
+       <title>All about Ja'Liayah</title>
      </head>
 
      <body>
